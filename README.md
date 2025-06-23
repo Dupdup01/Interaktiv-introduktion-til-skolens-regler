@@ -21,7 +21,7 @@ Datalag
 ![image](https://github.com/user-attachments/assets/d54eb15c-8314-49bc-8a99-75c8cffb00f4)
 - Produkt: Selve ideen med at man lande på et felt og trække kort efter farven af feltet, er ikke noget nyt. Den ide har vi bare taget, og ændret formålet med spørgsmål. Dermed er det inkrementelt
 - Process: Der er både lavet digitale og fysiske brætspil, dermed ingen ændring og 100% inkrementelt.
-- Position: Her kan man godt argumentere for at det er til den radikale side: Normalt er brætspil for hele familien, hvorimod vi henvender os udelukkende til Aarhus Tech Gymnasie elever.
+- Position: Der sket en større ændring i positionen, da vores målgruppe stikker sig lidt ud fra andre brætspil (vores målgruppe er skoleelever på Aarhus tech), dog er vi ikke de første som har lavet spil målrettet mod skoleelever og derfor er vi ikke ovre i at det er en radikal ændring, vores spil ligger cirka midt imellem inkrementel og radikal på dette punkt.
 - Paradigme: Der er ingen ændring i paradigmet, da det grundlæggende produkt er taget i brug af andre brætspils-producenter. Dermed 100% Inkrementelt.
 - Alt i alt: Det er helt klart inkrementelt.
 
