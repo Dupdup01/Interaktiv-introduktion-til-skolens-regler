@@ -19,6 +19,11 @@ Datalag
 
 ## 4P modellen
 ![image](https://github.com/user-attachments/assets/d54eb15c-8314-49bc-8a99-75c8cffb00f4)
+- Produkt: Selve ideen med at man lande på et felt og trække kort efter farven af feltet, er ikke noget nyt. Den ide har vi bare taget, og ændret formålet med spørgsmål. Dermed er det inkrementelt
+- Process: Der er både lavet digitale og fysiske brætspil, dermed ingen ændring og 100% inkrementelt.
+- Position: Her kan man godt argumentere for at det er til den radikale side: Normalt er brætspil for hele familien, hvorimod vi henvender os udelukkende til Aarhus Tech Gymnasie elever.
+- Paradigme: Der er ingen ændring i paradigmet, da det grundlæggende produkt er taget i brug af andre brætspils-producenter. Dermed 100% Inkrementelt.
+- Alt i alt: Det er helt klart inkrementelt.
 
 ## Lav flowchart
 ### Setup()
