@@ -1,7 +1,7 @@
 # Interaktiv-introduktion-til-skolens-regler
 ## To-do liste
 Her har vi lavet en trello, så vi nemmere har overblik om hvad der er blev et lavet, og hvad der mangler at blive lavet
-![billede](https://github.com/user-attachments/assets/9174d642-b762-4fa4-b060-0c3294656d29)
+![billede](https://github.com/user-attachments/assets/d608cd93-77ec-49a5-95e8-35e3c695e145)
 
 ## Lav UI
 Lav en brætspils bane som png. banen skal være rund og inddelt i felter med forskellige farver. der skal være 30 felter med 6 forskellige farver fordelt ud på banen. lav farverne iøjnefaldende og lav et tydeligt start felt og et ende felt
@@ -11,8 +11,6 @@ https://www.canva.com/design/DAGrGq3wjvE/s2orty0u__IIsflQhaZh8A/edit?utm_content
 ## 3-Lags modellen
 
 ## 4P modellen
-
-## Videreudviklingsplan
 
 ## Lav flowchart
 ### Setup()
@@ -28,3 +26,5 @@ https://www.canva.com/design/DAGrGq3wjvE/s2orty0u__IIsflQhaZh8A/edit?utm_content
 
 ## Lav koden
 https://editor.p5js.org/Dubber/sketches/NCUCHXhUl
+
+## Videreudviklingsplan
