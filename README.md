@@ -9,6 +9,13 @@ Lav en brætspils bane som png. banen skal være rund og inddelt i felter med fo
 https://www.canva.com/design/DAGrGq3wjvE/s2orty0u__IIsflQhaZh8A/edit?utm_content=DAGrGq3wjvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 3-Lags modellen
+![billede](https://github.com/user-attachments/assets/56e4f32d-3fa1-4779-802c-3540a41faa65)
+Præsentationslag:
+- Alt UI: Knapper med relevante figurer, boards, visuel position ift. hvor langt man er noget
+Logiklag:
+- Behandlig af input, og processeringen af output
+Datalag
+- Position af spillere, alle spørgsmål og alle svar.
 
 ## 4P modellen
 
