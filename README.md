@@ -43,7 +43,6 @@ I brainstorm
 
 ## Lav koden
 https://editor.p5js.org/Dubber/sketches/NCUCHXhUl
-ide til flowchart til kode:
 
 ## Videreudviklingsplan
 - Lave alle spørgsmål, med større variation. Implementer også multiple choice, så det ikke kun er ja-nej.
