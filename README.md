@@ -5,6 +5,8 @@ Her har vi lavet en trello, så vi nemmere har overblik om hvad der er blev et l
 
 ## Lav UI
 Lav en brætspils bane som png. banen skal være rund og inddelt i felter med forskellige farver. der skal være 30 felter med 6 forskellige farver fordelt ud på banen. lav farverne iøjnefaldende og lav et tydeligt start felt og et ende felt
+Low-fi prototype af ui: ![1000000999](https://github.com/user-attachments/assets/00d1cee9-04fd-49fd-b7de-afa8ba664d78)
+
 
 https://www.canva.com/design/DAGrGq3wjvE/s2orty0u__IIsflQhaZh8A/edit?utm_content=DAGrGq3wjvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
@@ -39,5 +41,8 @@ Datalag
 
 ## Lav koden
 https://editor.p5js.org/Dubber/sketches/NCUCHXhUl
+ide til flowchart til kode:
+![1000000998](https://github.com/user-attachments/assets/806a02ad-ccee-4afd-854b-3e3ab0ad6eee)
+
 
 ## Videreudviklingsplan
