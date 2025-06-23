@@ -18,6 +18,7 @@ Datalag
 - Position af spillere, alle spørgsmål og alle svar.
 
 ## 4P modellen
+![image](https://github.com/user-attachments/assets/d54eb15c-8314-49bc-8a99-75c8cffb00f4)
 
 ## Lav flowchart
 ### Setup()
