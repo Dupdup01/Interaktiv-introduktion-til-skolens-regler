@@ -28,6 +28,8 @@ Datalag
 - Alt i alt: Det er helt klart inkrementelt.
 
 ## Lav flowchart
+I brainstorm
+
 ### Setup()
 ![billede](https://github.com/user-attachments/assets/b78ce949-6788-4d64-b2d7-7cb188b52d48)
 ### Draw()
@@ -42,7 +44,9 @@ Datalag
 ## Lav koden
 https://editor.p5js.org/Dubber/sketches/NCUCHXhUl
 ide til flowchart til kode:
-![1000000998](https://github.com/user-attachments/assets/806a02ad-ccee-4afd-854b-3e3ab0ad6eee)
-
 
 ## Videreudviklingsplan
+- Lave alle spørgsmål, med større variation. Implementer også multiple choice, så det ikke kun er ja-nej.
+- Implemteret koden med appen.
+- Bruger test, UI og UX, Er der nok indhold? og er spillet langt nok?
+- Ekstra felter der har specielle "Features": Ryk x fælter frem/tilbage, vælg selv en kategori osv.
