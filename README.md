@@ -3,6 +3,10 @@
 Her har vi lavet en trello, så vi nemmere har overblik om hvad der er blev et lavet, og hvad der mangler at blive lavet
 ![billede](https://github.com/user-attachments/assets/d608cd93-77ec-49a5-95e8-35e3c695e145)
 
+## krav og features
+![image](https://github.com/user-attachments/assets/f7a54a70-2966-401b-85b9-4b5d8ea32c57)
+
+
 ## Lav UI
 Lav en brætspils bane som png. banen skal være rund og inddelt i felter med forskellige farver. der skal være 30 felter med 6 forskellige farver fordelt ud på banen. lav farverne iøjnefaldende og lav et tydeligt start felt og et ende felt
 Low-fi prototype af ui: ![1000000999](https://github.com/user-attachments/assets/00d1cee9-04fd-49fd-b7de-afa8ba664d78)
