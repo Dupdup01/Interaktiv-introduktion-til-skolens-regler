@@ -11,6 +11,8 @@ Her har vi lavet en trello, så vi nemmere har overblik om hvad der er blev et l
 Lav en brætspils bane som png. banen skal være rund og inddelt i felter med forskellige farver. der skal være 30 felter med 6 forskellige farver fordelt ud på banen. lav farverne iøjnefaldende og lav et tydeligt start felt og et ende felt
 Low-fi prototype af ui: ![1000000999](https://github.com/user-attachments/assets/00d1cee9-04fd-49fd-b7de-afa8ba664d78)
 
+![image](https://github.com/user-attachments/assets/a1fa804d-1e25-4190-b7fe-e991b32f215b)
+
 
 https://www.canva.com/design/DAGrGq3wjvE/s2orty0u__IIsflQhaZh8A/edit?utm_content=DAGrGq3wjvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
