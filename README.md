@@ -1,7 +1,7 @@
 # Interaktiv-introduktion-til-skolens-regler
 ## To-do liste
 Her har vi lavet en trello, så vi nemmere har overblik om hvad der er blev et lavet, og hvad der mangler at blive lavet
-![billede](https://github.com/user-attachments/assets/5171ed1d-a5bf-4790-b6d1-977ce507dee0)
+![billede](https://github.com/user-attachments/assets/55f6c7b7-88af-41b8-88e5-25f201446dbc)
 
 ## krav og features
 ![image](https://github.com/user-attachments/assets/f7a54a70-2966-401b-85b9-4b5d8ea32c57)
