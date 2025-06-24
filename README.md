@@ -39,7 +39,7 @@ I brainstorm
 ### rollDice()
 ![billede](https://github.com/user-attachments/assets/f5ab4ecc-0400-4a6d-9562-41fea054d284)
 ### drawDice()
-![billede](https://github.com/user-attachments/assets/05c58d6a-5c29-4c53-90a1-84a736d14212)
+![billede](https://github.com/user-attachments/assets/dcb31873-4c65-4208-a1ac-4dff13ed4b0b)
 
 ## Lav koden
 https://editor.p5js.org/Dubber/sketches/NCUCHXhUl
