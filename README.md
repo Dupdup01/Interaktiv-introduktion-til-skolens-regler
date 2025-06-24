@@ -35,6 +35,8 @@ Datalag
 
 ## Lav flowchart
 I brainstorm
+![1000000998 (1)](https://github.com/user-attachments/assets/78523072-4470-4571-b287-04ef72a479b6)
+
 
 ### Setup()
 ![billede](https://github.com/user-attachments/assets/b78ce949-6788-4d64-b2d7-7cb188b52d48)
